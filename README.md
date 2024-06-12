@@ -26,11 +26,9 @@ Documentation and examples can be found at [dg-docs.ole.dev](https://dg-docs.ole
 -   Embedded/Transcluded Images
 -   Transcluded notes
 -   Code Blocks
--   MathJax
 -   Highlighted text
 -   Footnotes
 -   Mermaid diagrams
--   PlantUML diagrams
 
 ## Initial Setup
 
